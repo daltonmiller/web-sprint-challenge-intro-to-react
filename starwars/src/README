@@ -1,0 +1,10 @@
+What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+react is a javascript library that make it easy for us to creat UI, from i understanding it is a library that allows you
+to use javacript, css, and html in a more organized and efficient  manner
+Describe component state.
+state is what determines what something does, or how something acts, it allows you to create dynamic and intereactive components
+Describe props.
+props is how data is passed in react
+What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+anything that affects something outside of the scope of the current function thats being executed.
+you set the state inside of the side effect
